@@ -1,0 +1,8 @@
+c
+c Random CNF in satcompetition.org format created by cnf_generator.php
+c
+p cnf 3 3
+1 0
+1 -3 0
+2 -3 0
+1 -2 -3 0
